@@ -1,0 +1,31 @@
+.padding10px {
+    padding-top: 10px;
+}
+
+.padding20px {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paddingฺฺBottom10px {
+    padding-bottom: 10px;
+}
+  
+.width75 {
+    width: 75%;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.filterArea {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: whitesmoke;
+}
+
+.dropdown {
+    max-height: 180px;
+    overflow-y: auto;
+}

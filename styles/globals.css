@@ -1,0 +1,11 @@
+html body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.input-group-sm>.custom-select, .input-group-sm>.form-control:not(textarea) {
+    border-radius: 100px;
+}
+
+.padding10px {
+    padding-top: 10px;
+}
